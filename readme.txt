@@ -1,4 +1,4 @@
-Exercises completed from the University of Helsinki Python ProgrammiNG MOOC 2024
+Exercises completed from the University of Helsinki Python Programming MOOC 2024
 https://programming-24.mooc.fi/
 
 Note: Part 1-7 encompasses the "Introduction to Programming" section
